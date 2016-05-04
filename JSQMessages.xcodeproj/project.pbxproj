@@ -55,6 +55,7 @@
 		3604A3671CDA8B97009A9120 /* JSQMessagesLoadEarlierHeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 88A25F9C19D8E01A00924534 /* JSQMessagesLoadEarlierHeaderView.xib */; };
 		3604A3681CDA8B97009A9120 /* JSQMessagesToolbarContentView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 88A25F9F19D8E01A00924534 /* JSQMessagesToolbarContentView.xib */; };
 		3604A3691CDA8B97009A9120 /* JSQMessagesTypingIndicatorFooterView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 88A25FA219D8E01A00924534 /* JSQMessagesTypingIndicatorFooterView.xib */; };
+		3604A37E1CDAA4C1009A9120 /* JSQMessages.h in Headers */ = {isa = PBXBuildFile; fileRef = 88A25F6E19D8E01A00924534 /* JSQMessages.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		36CF33BD29CF36EB06D0CCFD /* libPods-JSQMessagesTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 782026E9E518622532ED474D /* libPods-JSQMessagesTests.a */; };
 		77CC17A895E6E12BC9CB549A /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 97E6750B77E8A7042BA0754B /* libPods.a */; };
 		88078A9D19D8FEB5005B4595 /* JSQMessagesMediaPlaceholderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 88078A9C19D8FEB5005B4595 /* JSQMessagesMediaPlaceholderView.m */; };
@@ -718,6 +719,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3604A3321CDA8704009A9120 /* JSQMessagesViewControlleriOS.h in Headers */,
+				3604A37E1CDAA4C1009A9120 /* JSQMessages.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
